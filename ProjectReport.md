@@ -2,7 +2,7 @@
 
 ---
 
-## 1.
+## 1. Introduction
 
 Sudoku is a number-based puzzle played on a 9×9 grid. The goal is to fill the cells with numbers from 1 to 9 without repeating any number in the same row, column or 3×3 box.
 
@@ -138,7 +138,7 @@ The project can be improved by adding:
 
 ---
 
-## 10.
+## 10. Conclusion
 
 The **Sudoku Solver** is a Java Swing application that provides a way to solve Sudoku puzzles. The project demonstrates the use of Java GUI programming arrays, validation, recursion and the backtracking algorithm.
 
